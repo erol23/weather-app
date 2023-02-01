@@ -1,0 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cities-list{
+    list-style-type: none !important;
+}
